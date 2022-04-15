@@ -20,6 +20,22 @@ HARDWARE DESCRIPTION
 
 This is the back of it, with the main board, speakers and touch module pre-installed. To use it, just attach your control board to it and connect all the wires.
 
+
+**Touch Module**
+
+.. image:: img/touch_module.jpg
+
+There are two types of 4pin connector on the touch module, with the pin serial number shown on the figure.
+
+Here are the definitions of the pins:
+
+* Pin 1: VDD(5V)
+* Pin 2: D-
+* Pin 3: D+
+* Pin 4：GND
+
+
+
 **LED Indicators**
 
 .. image:: img/led_2.jpg

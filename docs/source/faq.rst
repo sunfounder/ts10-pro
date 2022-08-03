@@ -1,7 +1,7 @@
 FAQ
 =============
 
-Issue 1: Black border appears on the display?
+Black border appears on the display?
 --------------------------------------------------
 
     * Select the correct resolution
@@ -32,7 +32,7 @@ Issue 1: Black border appears on the display?
 
     .. image:: img/disable_overscan.png
 
-Issue 2: No Sound
+No Sound
 ----------------------
 
     * If your display has no sound, you need to confirm the current Audio output mode. Analog mode is used to output to the headphones, and HDMI mode is output to the speakers.

@@ -10,7 +10,7 @@ To get started using this screen, this chapter includes some interesting and cha
   retro_games_console
   3d_printer_monitor
   iot/homeassistant/home_assistant
-  iot/cloud4RPi
+  iot/blynk/blynk
   gpio_programming
 
 .. toctree::

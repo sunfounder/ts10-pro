@@ -18,7 +18,7 @@ With 2 stereo speakers, you can play music or watch videos. It also has a metal 
 
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
-Here is the Email: cs@sunfounder.com.
+Here is the Email: service@sunfounder.com.
 
 .. toctree::
     :maxdepth: 2

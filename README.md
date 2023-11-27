@@ -19,6 +19,8 @@ The SunFounder TS-10 Pro is a 10.1" touch screen designed for the Raspberry Pi a
 
 
 <a id="update"></a>
+2023-11-24:
+- Add tips about installing the older version of the Bullseye system.
 
 2022-04-07:
  - New Release

@@ -16,6 +16,8 @@ It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubunt
 
 With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
 
+Ideal for applications like retro gaming, industrial control, as a secondary monitor, in home automation, for 3D printing control, and as a |link_pc_monitor|.
+
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
 Here is the Email: service@sunfounder.com.

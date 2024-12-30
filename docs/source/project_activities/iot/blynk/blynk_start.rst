@@ -153,7 +153,7 @@ We have provided some examples, please run the following command to download the
 .. code-block:: 
 
     cd /home/pi
-    git clone https://github.com/sunfounder/blynk-raspberrypi-python.git
+    git clone https://github.com/sunfounder/blynk-raspberrypi-python.git --depth 1
 
 
 5. Run the Code

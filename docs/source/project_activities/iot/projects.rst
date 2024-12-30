@@ -27,7 +27,7 @@ Open a Terminal and enter the following command to download them from github.
 
 .. code-block:: shell
 
-    git clone https://github.com/sunfounder/ts10-pro
+    git clone https://github.com/sunfounder/ts10-pro --depth 1
 
 Then copy the codes from the ``iot`` folder to the ``cloud4rpi-raspberrypi-python`` folder.
 
